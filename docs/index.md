@@ -12,6 +12,13 @@ The reason behind these is to keep the game coherent. If you try to do everythin
 
 The Game Pillars also help the rest of the developers team to understand what the game designer wants to do and expres with the game.
 
+## Unique Selling Point 
+People might find that Game Pilars are basically the same thing as Unique Selling Points, but it doesn't encompass exactly the same things.
+
+A unique selling point (USP) is the essence of what makes your product or service better than competitors, and a pillar is a set of features that will get particular attention during the game's development.
+
+Obviously all your USPs will be pillars, **but a pillar is not necessarily an USP.**
+
 ## Examples
 Now that we know what Game Pillars are let's see some examples:
 
@@ -54,9 +61,3 @@ Now that we know what Game Pillars are let's see some examples:
 ### Paradox
 Also, there are some studios that have their own's Game Pillars for all their videogames. [Paradox interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars) is an example: 
 ![paradox](https://github.com/Divangus/GamePillars/blob/main/docs/images/paradox-game-pillars.jpg?raw=true)
-
-
-
-
-
-
