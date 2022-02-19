@@ -50,8 +50,10 @@ Now that we know what Game Pillars are let's see some examples:
     - **Competition:** having a lot of content based on pvp such as the guild wars or the arenas.
     - **Cooperation:** allowing you to play all the content of the game in cooperative with other people.
     - **Community:** these game depends a lot of his community because the game is mostly based on online interaction with oter people.
- 
+
+### Paradox
 Also, there are some studios that have their own's Game Pillars for all their videogames. [Paradox interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars) is an example: 
+
 
 
 
