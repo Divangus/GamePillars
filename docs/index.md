@@ -3,7 +3,7 @@ When we want to create a game and we start thinking how this will be designed, t
 
 In conclusion, we can define the Game Pilars as a list of 3 to 5 key concepts (like Gameplay & Dynamics, Emotions/Feelings, Genre/Theme/Mechanics or Art direction) that we want our game to explore and be based on.
 
-![pillar](https://www.exin.com/verism/app/uploads/sites/12/2019/06/3-pillars-of-VeriSM.jpg)
+![pillar](https://github.com/Divangus/GamePillars/blob/main/docs/images/3-pillars-of-VeriSM.jpg?raw=true)
 
 ## Why we need the Pillars?
 Maybe some people are asking why they have to limit their games to 3 or 5 specific things instead of making a super game that do so many amazing things.
@@ -16,7 +16,7 @@ The Game Pillars also help the rest of the developers team to understand what th
 Now that we know what Game Pillars are let's see some examples:
 
 ### The Last of Us
-![theLastOfUs](https://www.lacasadeel.net/wp-content/uploads/2017/06/The-last-of-us-movie.jpg)
+![theLastOfUs](https://github.com/Divangus/GamePillars/blob/main/docs/images/the-last-of-us-ellie-joel.jpg?raw=true)
 
 - **Crafting:** Along the game, there is a lot of loot that we will be able to get and use it to craft usefull things like the ammo. So we will be exploring all of the enviroment in search of materials for craft.
 - **Story:** Last of Us is a game based on the narrative. The story that the game tell to us is one of the most important things when we play.
@@ -24,7 +24,7 @@ Now that we know what Game Pillars are let's see some examples:
 - **Stealth:** Combat is used in this game, but if you were to run and gun, then the game would make your life extremely difficult. So player are encouraged to play more stealthily.
 
 ### The Legend of Zelda: Breath of the Wild
-![Botw](https://as01.epimg.net/meristation/imagenes/2019/06/11/header_image/734365241560283563.jpg)
+![Botw](https://github.com/Divangus/GamePillars/blob/main/docs/images/zelda.jpg?raw=true)
 
 - **Exploration:** Player are encouraged to explore, by being able to go to any area they wish whenever they wish. The information arround the map is hidden and is the player who has to explore and discover all the missions and things that he can do over the world.
 - **Traversal:** BotW offers so many modes to moves arround the world like climbing, swimming, running, paragliding and the interesting shield surfing.  
@@ -33,9 +33,12 @@ Now that we know what Game Pillars are let's see some examples:
 - **OPTIONS:** in my opinion the most important pillar. This game presents a lot of options to the player from multiple ways and order to complete the story, to solve the puzzles or to kill the enemies. Everething the player can imagine is one more thing to solve the problem he needs, in this game there is no one way to solve the issues. 
 
 ### The Binding of Isaac
-![isaac](https://cdn.akamai.steamstatic.com/steam/apps/1426300/capsule_616x353.jpg?t=1617173513)
+![isaac](https://github.com/Divangus/GamePillars/blob/main/docs/images/isaac.jpg?raw=true)
 
-- **Replayability:**
+- **Difficulty:** one of the most important thing of the game is the difficulty that this one presents. We will have to be surviving throught diferents rooms with diferent unkown challenges. Also we can choose diferent characters that will increase the difficulty like "The Lost", a character that starts with no health and cannot gain health by any means. Therefore, it will die from any damage taken.
+- **Decision making:** another pillar is the decisions we have to make in the runs, it will be very important if we take or no an item or if we enter in an especific room or not. This decisions will define how will the game progress
+- **Randomness(Alea):** in this game every thing will be randomly generated so we will never know how the game will be.
+- **Replayability:** this type of games are full based on the repleyability, all the games will be always different an you have to be playing the game from 0 every time you finish one run to unlock more content.
 
 
 
