@@ -41,5 +41,16 @@ Now that we know what Game Pillars are let's see some examples:
 - **Replayability:** this type of games are full based on the repleyability, all the games will be always different an you have to be playing the game from zero every time you finish one run to unlock more content.
 
 
+### Lost Ark
+![lostArk](https://github.com/Divangus/GamePillars/blob/main/docs/images/isaac.jpg?raw=true)
+
+- **Difficulty:** one of the most important thing of the game is the difficulty that this one presents. We will have to be surviving throught diferents rooms with diferent unkown challenges. Also we can choose diferent characters that will increase the difficulty like "The Lost", a character that starts with no health and cannot gain health by any means. Therefore, it will die from any damage taken.
+- **Decision making:** another pillar is the decisions we have to make in the runs, it will be very important if we take or no an item or if we enter in an especific room or not. This decisions will define how will the game progress
+- **Randomness(Alea):** in this game every thing will be randomly generated so we will never know how the game will be.
+- **Replayability:** this type of games are full based on the repleyability, all the games will be always different an you have to be playing the game from zero every time you finish one run to unlock more content.
+
+
+
+
 
 
