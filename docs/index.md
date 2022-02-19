@@ -53,7 +53,7 @@ Now that we know what Game Pillars are let's see some examples:
 
 ### Paradox
 Also, there are some studios that have their own's Game Pillars for all their videogames. [Paradox interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars) is an example: 
-
+![paradox](https://github.com/Divangus/GamePillars/blob/main/docs/images/paradox-game-pillars.jpg?raw=true)
 
 
 
