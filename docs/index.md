@@ -59,5 +59,8 @@ Now that we know what Game Pillars are let's see some examples:
     - **Community:** these game depends a lot of his community because the game is mostly based on online interaction with oter people.
 
 ### Paradox
-Also, there are some studios that have their own's Game Pillars for all their videogames. [Paradox interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars) is an example: 
+Also, there are some studios that have their own's Game Pillars for all their videogames. [Paradox Interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars) is an example: 
 ![paradox](https://github.com/Divangus/GamePillars/blob/main/docs/images/paradox-game-pillars.jpg?raw=true)
+
+## Choosing the Game Pillars
+
