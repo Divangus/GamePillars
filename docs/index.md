@@ -42,12 +42,16 @@ Now that we know what Game Pillars are let's see some examples:
 
 
 ### Lost Ark
-![lostArk](https://github.com/Divangus/GamePillars/blob/main/docs/images/isaac.jpg?raw=true)
+![lostArk](https://github.com/Divangus/GamePillars/blob/main/docs/images/Lost-Ark-Prime-Amazon.jpg?raw=true)
 
-- **Difficulty:** one of the most important thing of the game is the difficulty that this one presents. We will have to be surviving throught diferents rooms with diferent unkown challenges. Also we can choose diferent characters that will increase the difficulty like "The Lost", a character that starts with no health and cannot gain health by any means. Therefore, it will die from any damage taken.
-- **Decision making:** another pillar is the decisions we have to make in the runs, it will be very important if we take or no an item or if we enter in an especific room or not. This decisions will define how will the game progress
-- **Randomness(Alea):** in this game every thing will be randomly generated so we will never know how the game will be.
-- **Replayability:** this type of games are full based on the repleyability, all the games will be always different an you have to be playing the game from zero every time you finish one run to unlock more content.
+- **Progression:** Lost Aek is an MMORPG so one of the fundamental pillars of the game is the leveling and character progression basic of all the RPG, getting more abilities and skill points that will make our character more powerfull 
+- **Customization:** in the game every player can be whatever he want. They have character creation, class selection and the skill points, allowing them to build the abilities of they characters in diferents ways so they get diferents play styles and appearance even having the same character class. 
+- **Multiplayer(MMO):** these is the most important pillar of the game. All the content of the game is based on the people interaction, making you able to play alone or with other people at anytime. We can divide this one in 3 other pillars:
+    - **Competition:** having a lot of content based on pvp such as the guild wars or the arenas.
+    - **Cooperation:** allowing you to play all the content of the game in cooperative with other people.
+    - **Community:** these game depends a lot of his community because the game is mostly based on online interaction with oter people.
+ 
+Also, there are some studios that have their own's Game Pillars for all their videogames. [Paradox interactive](https://www.paradoxinteractive.com/our-company/our-business/game-pillars) is an example: 
 
 
 
