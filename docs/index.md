@@ -77,7 +77,7 @@ The process of defining a core Game Pillars is not difficult, but we need to hav
 ![Bartle](https://github.com/Divangus/GamePillars/blob/main/docs/images/Gamification-Bartle.jpg?raw=true)
 
 ### The process
-1. **Choosing a target:** the first thing we need is to know in what kind of player will base our game, if we will attack a casual target or a competitive one, if we want to make a game for killers or for archievers. A way to classify the kind of players is using the [Bartle taxonomy](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types).
+1. **Choosing a target:** the first thing we need is to know in what kind of player will base our game, if we will attack a casual target or a competitive one, if we want to make a game for killers or for achievers. A way to classify the kind of players is using the [Bartle taxonomy](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types).
 2. **Brainstorming:** doing brainstorming session with all the team is a good way (the best) to start establishing what we want to do with the game. The advantage of this approach is that everyone understands and buys into the chosen pillars because they had a say in creating them. The downside is that this process can take time, with potentially conflicting ideas needing to be whittled down until an agreement is reached.
 3. **Filter the ideas:** once we have the ideas on the table, we need to chose the good one's and discard the bad ones. Actually there are no bad ideas, but we need to choose these ones that are accessible to do it with the resources we have, fit better with our game target and have more synergies between the other chosen ideas.
 4. **Be original:** there is an existing game that has **ALL** your game pillars?
