@@ -81,5 +81,14 @@ The process of defining a core Game Pillars is not difficult, but we need to hav
 ### Identifying bad Game Pillars
 - A Game Pillar should have one solid answer for **How can we do it?**
 - Pillars must be general things that include all the game: if the pillar is focused on an especific element, we should discard it.
-- There are some toxic sentences that will work bad on a game and we have to avoid:
+
+## Using the Game Pillars
+Once we have defined the Game pillars, s I said to the beggining, we will use them as a filter to know if an idea will spoil the game. We have to ask ourselves:
+- Is the idea loyal to one or more of our Game Pillars? Try to not turn aside the original design.
+- Is exceeding us with work? We have to be mindful of the time and resources we have.
+- Is relevant for the game? don't add things that have no real purpose.
+- Don't mess up something that works: try to not change any pillar.
+
+Does this mechanic/idea serve or fit into the pillars of our game? If the answer is ‘No’ then it may be best to **remove this mechanic**
+
 
