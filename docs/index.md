@@ -51,7 +51,7 @@ Now that we know what Game Pillars are let's see some examples:
 ### Lost Ark
 ![lostArk](https://github.com/Divangus/GamePillars/blob/main/docs/images/Lost-Ark-Prime-Amazon.jpg?raw=true)
 
-- **Progression:** Lost Aek is an MMORPG so one of the fundamental pillars of the game is the leveling and character progression basic of all the RPG, getting more abilities and skill points that will make our character more powerfull 
+- **Progression:** Lost Ark is an MMORPG so one of the fundamental pillars of the game is the leveling and character progression basic of all the RPG, getting more abilities and skill points that will make our character more powerfull 
 - **Customization:** in the game every player can be whatever he want. They have character creation, class selection and the skill points, allowing them to build the abilities of they characters in diferents ways so they get diferents play styles and appearance even having the same character class. 
 - **Multiplayer(MMO):** these is the most important pillar of the game. All the content of the game is based on the people interaction, making you able to play alone or with other people at anytime. We can divide this one in 3 other pillars:
     - **Competition:** having a lot of content based on pvp such as the guild wars or the arenas.
@@ -63,7 +63,7 @@ Also, there are some studios that have their own's Game Pillars for all their vi
 ![paradox](https://github.com/Divangus/GamePillars/blob/main/docs/images/paradox-game-pillars.jpg?raw=true)
 
 ## Establishing the Game Pillars
-The process of defining a core Game Pillars is not difficult, but we need to have thhe process very clear. 
+The process of defining a core Game Pillars is not difficult, but we need to have the process very clear. 
 
 ### The basics
 - Each statement should be short, no more than a sentence.
@@ -73,6 +73,13 @@ The process of defining a core Game Pillars is not difficult, but we need to hav
 ![Bartle](https://github.com/Divangus/GamePillars/blob/main/docs/images/Gamification-Bartle.jpg?raw=true)
 
 ### The process
-- **Choosing a target:** the first thing we need is to know in what kind of player will base our game, if we will attack to a casual target or a competitive one, if we want to do a game for killers or for archievers. A way to classify the kind of players is using the [Bartle taxonomy](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types).
-- **Brainstorming:** doing brainstorming session with all the team is a god way (the best) to start establishing what we want to do with the game. The advantage of this approach is that everyone understands and buys into the chosen pillars because they had a say in creating them. The downside is that this process can take time, with potentially conflicting ideas needing to be whittled down until an agreement is reached.
-- **Filter the ideas:** once we have the ideas on the table we need to chose the good one's and discard the bad ones. Actually there are no bad ideas but we need to choose this ones fit better with our game target and have more synergies between the other choseen ideeas.
+1. **Choosing a target:** the first thing we need is to know in what kind of player will base our game, if we will attack to a casual target or a competitive one, if we want to do a game for killers or for archievers. A way to classify the kind of players is using the [Bartle taxonomy](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types).
+2. **Brainstorming:** doing brainstorming session with all the team is a god way (the best) to start establishing what we want to do with the game. The advantage of this approach is that everyone understands and buys into the chosen pillars because they had a say in creating them. The downside is that this process can take time, with potentially conflicting ideas needing to be whittled down until an agreement is reached.
+3. **Filter the ideas:** once we have the ideas on the table we need to chose the good one's and discard the bad ones. Actually there are no bad ideas but we need to choose this ones that are accesible to do it with the resources we have, fit better with our game target and have more synergies between the other choseen ideas.
+4. **Be original:** there is an existing game that have **ALL** your game pilars?
+
+### Identifying bad Game Pillars
+- A Game Pillar should have one solid answer for **How can we do it?**
+- Pillars must be general things that include all the game: if the pillar is focused on an especific element, we should discard it.
+- There are some toxic sentences that will work bad on a game and we have to avoid:
+
