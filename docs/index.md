@@ -78,6 +78,8 @@ The process of defining a core Game Pillars is not difficult, but we need to hav
 3. **Filter the ideas:** once we have the ideas on the table we need to chose the good one's and discard the bad ones. Actually there are no bad ideas but we need to choose this ones that are accesible to do it with the resources we have, fit better with our game target and have more synergies between the other choseen ideas.
 4. **Be original:** there is an existing game that have **ALL** your game pilars?
 
+![brainstorming](https://github.com/Divangus/GamePillars/blob/main/docs/images/alternativas-brainstorming-850x478.png?raw=true)
+
 ### Identifying bad Game Pillars
 - A Game Pillar should have one solid answer for **How can we do it?**
 - Pillars must be general things that include all the game: if the pillar is focused on an especific element, we should discard it.
@@ -90,5 +92,31 @@ Once we have defined the Game pillars, s I said to the beggining, we will use th
 - Don't mess up something that works: try to not change any pillar.
 
 Does this mechanic/idea serve or fit into the pillars of our game? If the answer is ‘No’ then it may be best to **remove this mechanic**
+
+![discardIdea](https://github.com/Divangus/GamePillars/blob/main/docs/images/crumpled-paper.jpg?raw=true)
+
+## Summary
+In conclussion, Game Pillars are concepts that we define before start making the game. We will have this concepts present in the rest of the game development to help us make accurate decisions and avoiding fails, informing us of the global game design.
+
+## Documentation
+
+This page have been mainly based on the [Max Pears](https://twitter.com/MaxPears) article: Design Pillars – The Core of Your Game. 
+You can check it out [here](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)
+
+#### More documentation: 
+[The Acagamic - Communication and Game Design Documents](https://acagamic.com/free-courses/intro-to-game-design/communication-and-game-design-documents/)
+[Raspberry Pi - How pillars and triangles can focus your game design](https://www.raspberrypi.com/news/how-pillars-and-triangles-can-focus-your-game-design/)
+[Game Dev Underground - Game Design Document Template – One Page + Super Easy](http://gdu.io/blog/game-design-document-template-one-page-super-easy/)
+[Technical Game Design - Pillars](http://technicalgamedesign.blogspot.com/2011/04/pillars.html)
+[Examples of game pillars (reddit post)](https://www.reddit.com/r/gamedesign/comments/eup8mz/examples_of_game_pillars/)
+[Oriol de Dios - Game Design Pillars](https://orioldedios.github.io/Game-Design-Pillars/)
+[Paradox Interactive - Game Pilars](https://www.paradoxinteractive.com/our-company/our-business/game-pillars)
+[ThursDev: Game Design Pillars - Better design through definition and restriction](https://www.youtube.com/watch?v=_EtxKlctpXw&ab_channel=Level0Gamedev)
+
+## About me
+This page has been written by [David Benages](https://github.com/Divangus), student of [Videogame Design and Development in CITM of UPC](https://www.citm.upc.edu/ing/estudis/grau-videojocs-terrassa/). This content is generated for the second year’s subject Project 2.
+
+
+
 
 
