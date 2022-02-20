@@ -30,6 +30,8 @@ Now that we know what Game Pillars are let's see some examples:
 - **AI partners:** The game is all about building a relationship between the player’s character with the AI partner Ellie and other partners you meet throughout your journey.
 - **Stealth:** Combat is used in this game, but if you were to run and gun, then the game would make your life extremely difficult. So player are encouraged to play more stealthily.
 
+    -[Max Pears Article](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)-
+
 ### The Legend of Zelda: Breath of the Wild
 ![Botw](https://github.com/Divangus/GamePillars/blob/main/docs/images/zelda.jpg?raw=true)
 
@@ -39,6 +41,8 @@ Now that we know what Game Pillars are let's see some examples:
 - **Combat:** Combat is very important in this game as there are a lot of hostil creatures in the world you have to defeat and a lot of mechanichs you have to do it like the parry or the dodge. Also the player can choose a lot of diferent combat styles depending on the weapon they have equiped like the sword or the spear.
 - **OPTIONS:** in my opinion the most important pillar. This game presents a lot of options to the player from multiple ways and order to complete the story, to solve the puzzles or to kill the enemies. Everething the player can imagine is one more thing to solve the problem he needs, in this game there is no one way to solve the issues. 
 
+    -[Max Pears Article](https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game)-
+    
 ### The Binding of Isaac
 ![isaac](https://github.com/Divangus/GamePillars/blob/main/docs/images/isaac.jpg?raw=true)
 
@@ -63,7 +67,7 @@ Also, there are some studios that have their own's Game Pillars for all their vi
 ![paradox](https://github.com/Divangus/GamePillars/blob/main/docs/images/paradox-game-pillars.jpg?raw=true)
 
 ## Establishing the Game Pillars
-The process of defining a core Game Pillars is not difficult, but we need to have the process very clear. 
+The process of defining a core Game Pillars is not difficult, but we need to have it very clear. 
 
 ### The basics
 - Each statement should be short, no more than a sentence.
