@@ -1,23 +1,23 @@
 ## Game Pillar
-When we want to create a game and we start thinking how this will be designed, the first step we need is to stablish a few parameters that delimitate and guide the process of design and production. This parameters are known as Game Pillars and, as the name suggest, they're the foundations of a game. As the designers, we will work with the pillars like a filter to know if one mechanic/idea will fit well in our game or oterwhise it will spoil it.
+When we want to create a game and we start thinking about how it is going to be designed, the first step we need to take is to establish some parameters that delimit and guide the design and production process. These parameters are known as Game Pillars and, as the name suggests, they are the foundation of a game. As designers, we will work with the Pillars as a filter to know if a mechanic/idea will fit well in our game or, on the contrary, will spoil it.
 
-In conclusion, we can define the Game Pilars as a list of 3 to 5 key concepts (like Gameplay & Dynamics, Emotions/Feelings, Genre/Theme/Mechanics or Art direction) that we want our game to explore and be based on.
+In conclusion, we can define game pillars as a list of 3 to 5 key concepts (such as gameplay and dynamics, emotions/feelings, genre/theme/mechanics or art direction) that we want our game to explore and build upon.
 
 ![pillar](https://github.com/Divangus/GamePillars/blob/main/docs/images/3-pillars-of-VeriSM.jpg?raw=true)
 
 ## Why we need the Pillars?
-Maybe some people are asking why they have to limit their games to 3 or 5 specific things instead of making a super game that do so many amazing things.
+Some may wonder why they have to limit their games to 3 or 5 specific things instead of making a super game that does so many amazing things.
 
-The reason behind these is to keep the game coherent. If you try to do everything in one game then players may be getting lost or you will not be able to deliver all these elements/emotions to a high standard.
+The reason is to keep the game consistent. If you try to do everything in one game, players may get lost or you won't be able to deliver all these elements/emotions at a high level.
 
-The Game Pillars also help the rest of the developers team to understand what the game designer wants to do and expres with the game.
+The Game Pillars also help the rest of the development team understand what the designer wants to do and express with the game.
 
 ## Unique Selling Point 
-People might find that Game Pilars are basically the same thing as Unique Selling Points, but it doesn't encompass exactly the same things.
+It may seem to people that game pillars are basically the same as Unique Selling Points, but they don't encompass exactly the same things.
 
-A unique selling point (USP) is the essence of what makes your product or service better than competitors, and a pillar is a set of features that will get particular attention during the game's development.
+A Unique Selling Point (USP) is the essence of what makes your product or service better than the competition's, and a pillar is a set of features that will be given special attention during the development of the game.
 
-Obviously all your USPs will be pillars, **but a pillar is not necessarily an USP.**
+Obviously, all your Unique Selling Points will be pillars, **but a pillar is not necessarily a USP**.
 
 ## Examples
 Now that we know what Game Pillars are let's see some examples:
